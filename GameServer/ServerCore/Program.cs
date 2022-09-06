@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ServerCore
+namespace SeverCore
 {
     class Program
     {
